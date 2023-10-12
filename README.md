@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/NyanPunch" target="_blank"><img src="https://img.shields.io/badge/slack?style=social&logo=appveyor&logoColor=#4A154B"/></a>
+<a href="https://github.com/NyanPunch" target="_blank"><img src="https://img.shields.io/badge/slack-#4A154B?style=social&logo=appveyor&logoColor=#4A154B"/></a>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NyanPunch&show_icons=true&theme=default)
