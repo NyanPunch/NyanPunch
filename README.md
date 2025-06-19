@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=NyanPunch&theme=transparent&hide_border=true&width=400&height=150)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NyanPunch&show_icons=true&theme=default)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NyanPunch&show_icons=true&theme=default&hide_border=true&width=100)
 ---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kkmlouis)](https://solved.ac/kkmlouis)
