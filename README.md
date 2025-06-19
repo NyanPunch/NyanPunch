@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://nyanpunch.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=social&logo=github&logoColor=181717"/></a>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NyanPunch&show_icons=true&theme=default) [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kkmlouis)](https://solved.ac/kkmlouis)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NyanPunch&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NyanPunch&show_icons=true&theme=default)
+---
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kkmlouis)](https://solved.ac/kkmlouis)
