@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**[반자동 복권번호 생성기](https://nyanpunch.github.io/Pages/SHOWMETHEMONEY/)** / **[투자 비율 계산기](https://nyanpunch.github.io/Pages/HowToDistribute/)**
+**[반자동 복권번호 생성기](https://nyanpunch.github.io/pages/showmethemoney/)** / **[투자 비율 계산기](https://nyanpunch.github.io/pages/howtodistribute/)**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Nyanpunch.github.io-blue?style=for-the-badge&logo=githubpages)](https://Nyanpunch.github.io)
 
