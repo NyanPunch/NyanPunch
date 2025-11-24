@@ -4,7 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Nyanpunch.github.io-blue?style=for-the-badge&logo=githubpages)](https://Nyanpunch.github.io)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NyanPunch&theme=transparent&hide_border=true&width=400&height=150)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=NyanPunch&theme=transparent&hide_border=true&width=400&height=150)](https://git.io/streak-stats) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NyanPunch&show_icons=true&theme=default&hide_border=true&width=100)
 
 
